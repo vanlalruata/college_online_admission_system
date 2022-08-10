@@ -329,7 +329,7 @@ CREATE TABLE `tbl_payment_gateway` (
 --
 
 INSERT INTO `tbl_payment_gateway` (`id`, `paymentgateway`, `apikey`, `secret`, `status`) VALUES
-(1, 'RazorPay', 'rzp_live_asdasdasd', 'asdasdasdasd', 'inactive');
+(1, 'RazorPay', '', '', 'inactive');
 
 -- --------------------------------------------------------
 
@@ -387,7 +387,7 @@ CREATE TABLE `tbl_smtp` (
 --
 
 INSERT INTO `tbl_smtp` (`hostname`, `apikey`, `serverid`, `status`) VALUES
-('sendgrid', 'SG.G80qzXnxS-aIPTsyYY1gRA.Bn6oXONcDH1EsuoW_fYjG9C97qweqqw1NKpHGlFxY', 'hello', 'active');
+('sendgrid', '', 'hello', 'inactive');
 
 -- --------------------------------------------------------
 
