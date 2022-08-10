@@ -1,0 +1,435 @@
+[20-Jul-2021 15:11:35 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[20-Jul-2021 15:11:35 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[20-Jul-2021 15:11:35 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[20-Jul-2021 15:11:35 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[20-Jul-2021 15:11:35 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[20-Jul-2021 15:11:35 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[20-Jul-2021 15:38:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[20-Jul-2021 15:38:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[20-Jul-2021 15:38:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[20-Jul-2021 15:38:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[21-Jul-2021 11:35:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[21-Jul-2021 11:35:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[21-Jul-2021 11:35:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[21-Jul-2021 11:35:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[21-Jul-2021 13:11:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[21-Jul-2021 13:11:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:00:42 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:00:42 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:00:42 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:00:42 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:02:16 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:02:16 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:02:16 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:02:16 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:05:45 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:05:45 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:05:45 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:05:45 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:39:25 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:39:25 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[24-Jul-2021 20:40:54 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[24-Jul-2021 20:40:54 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[25-Jul-2021 16:44:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/header.php on line 58
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 81
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 82
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 83
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 84
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 86
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 87
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 88
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 89
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 90
+[25-Jul-2021 14:59:57 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 91
+[25-Jul-2021 20:30:02 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/champhai/public_html/admission/admin/verifiedexport.php on line 180
+[25-Jul-2021 20:30:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/verifiedexport.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/verifiedexport.php on line 181
+[25-Jul-2021 20:30:05 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/champhai/public_html/admission/admin/verifiedexport.php on line 180
+[25-Jul-2021 20:30:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/verifiedexport.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/verifiedexport.php on line 181
+[26-Jul-2021 12:04:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/champhai/public_html/admission/admin/index.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/index.php on line 185
+[26-Jul-2021 13:55:10 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[26-Jul-2021 13:55:10 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 81
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 82
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 83
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 84
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 86
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 87
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 88
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 89
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 90
+[26-Jul-2021 15:34:54 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 91
+[26-Jul-2021 21:04:58 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/champhai/public_html/admission/admin/verifiedexport.php on line 180
+[26-Jul-2021 21:04:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/verifiedexport.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/verifiedexport.php on line 181
+[27-Jul-2021 11:21:13 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[27-Jul-2021 11:21:13 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 32
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 34
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 86
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 88
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 142
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 144
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 198
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 200
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 254
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 256
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 312
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 314
+[27-Jul-2021 13:05:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/champhai/public_html/admission/admin/dashboard.php:315
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1680): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/dashboard.php on line 315
+[27-Jul-2021 13:05:54 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 13:05:54 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 13:05:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 13:07:14 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/applicantdetails.php on line 47
+[27-Jul-2021 13:07:14 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/applicantdetails.php on line 97
+[27-Jul-2021 13:07:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/applicantdetails.php:98
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1092): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/applicantdetails.php on line 98
+[27-Jul-2021 13:07:18 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 32
+[27-Jul-2021 13:07:18 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 34
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 86
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 88
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 142
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 144
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 198
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 200
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 254
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 256
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 312
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 314
+[27-Jul-2021 13:07:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/champhai/public_html/admission/admin/dashboard.php:315
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1080): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/dashboard.php on line 315
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 60
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 62
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 114
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 116
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 170
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 172
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 225
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 227
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 288
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 290
+[27-Jul-2021 13:07:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/champhai/public_html/admission/admin/dashboard.php:291
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1080): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/dashboard.php on line 291
+[27-Jul-2021 13:07:27 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[27-Jul-2021 13:07:27 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[27-Jul-2021 13:07:27 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[27-Jul-2021 13:07:27 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[27-Jul-2021 13:07:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/details.php on line 23
+[27-Jul-2021 13:07:31 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/details.php on line 30
+[27-Jul-2021 13:07:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/details.php:31
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1095): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/details.php on line 31
+[27-Jul-2021 13:12:34 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/paymentdue.php on line 43
+[27-Jul-2021 13:12:34 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/paymentdue.php on line 50
+[27-Jul-2021 13:12:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/paymentdue.php:51
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1113): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/paymentdue.php on line 51
+[27-Jul-2021 13:18:19 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/index.php on line 85
+[27-Jul-2021 13:18:19 Asia/Kolkata] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/index.php on line 91
+[27-Jul-2021 13:18:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/champhai/public_html/admission/admin/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/index.php on line 92
+[27-Jul-2021 13:27:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/studentlist.php on line 45
+[27-Jul-2021 13:27:29 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/studentlist.php on line 53
+[27-Jul-2021 13:27:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/studentlist.php:54
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1146): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/studentlist.php on line 54
+[27-Jul-2021 13:28:10 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 13:28:10 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 13:28:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 13:28:10 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 13:28:10 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 13:28:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 13:34:21 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/index.php on line 173
+[27-Jul-2021 13:34:21 Asia/Kolkata] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/index.php on line 179
+[27-Jul-2021 13:34:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/champhai/public_html/admission/admin/index.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/index.php on line 180
+[27-Jul-2021 13:34:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/champhai/public_html/admission/admin/index.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/index.php on line 185
+[27-Jul-2021 13:34:40 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 13:34:40 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 13:34:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 13:34:55 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 13:34:55 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 13:34:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 13:35:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/champhai/public_html/admission/admin/index.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/index.php on line 185
+[27-Jul-2021 13:35:39 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/footer.php on line 4
+[27-Jul-2021 13:35:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/footer.php on line 6
+[27-Jul-2021 13:35:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/footer.php:7
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1687): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/footer.php on line 7
+[27-Jul-2021 14:27:52 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/applicantdetails.php on line 47
+[27-Jul-2021 14:27:52 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/applicantdetails.php on line 97
+[27-Jul-2021 14:27:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/applicantdetails.php:98
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1092): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/applicantdetails.php on line 98
+[27-Jul-2021 14:28:01 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/footer.php on line 4
+[27-Jul-2021 14:28:01 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/footer.php on line 6
+[27-Jul-2021 14:28:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/footer.php:7
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1687): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/footer.php on line 7
+[27-Jul-2021 14:28:14 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:28:14 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:28:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:28:19 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:28:19 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:28:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:28:23 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:28:23 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:28:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:28:26 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:28:26 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:28:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:28:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:28:30 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:28:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:28:53 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:28:53 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:28:54 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:28:54 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:28:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:29:00 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:29:00 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:29:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:29:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:29:05 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:29:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:29:10 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:29:10 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:29:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 32
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 34
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 86
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 88
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 142
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 144
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 198
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 200
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 254
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 256
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 312
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 314
+[27-Jul-2021 14:29:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/champhai/public_html/admission/admin/dashboard.php:315
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1080): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/dashboard.php on line 315
+[27-Jul-2021 14:29:54 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:29:54 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:29:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:29:58 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[27-Jul-2021 14:29:58 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[27-Jul-2021 14:29:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[27-Jul-2021 14:30:01 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/dashboard.php on line 312
+[27-Jul-2021 14:30:01 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/dashboard.php on line 314
+[27-Jul-2021 14:30:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/champhai/public_html/admission/admin/dashboard.php:315
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1080): require_once()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/dashboard.php on line 315
+[27-Jul-2021 19:48:54 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/footer.php on line 4
+[27-Jul-2021 19:48:54 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/footer.php on line 6
+[27-Jul-2021 19:48:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/footer.php:7
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(1687): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/footer.php on line 7
+[01-Aug-2021 13:01:19 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[01-Aug-2021 13:01:19 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[02-Aug-2021 11:34:03 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[02-Aug-2021 11:34:03 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[05-Aug-2021 06:44:23 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[05-Aug-2021 06:44:23 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[06-Aug-2021 20:51:11 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[06-Aug-2021 20:51:11 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[06-Aug-2021 20:51:11 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[06-Aug-2021 20:51:11 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[10-Aug-2021 16:51:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/studentexport.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/studentexport.php on line 27
+[10-Aug-2021 16:53:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/studentexport.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/studentexport.php on line 27
+[11-Aug-2021 15:45:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/header.php on line 58
+[11-Aug-2021 15:46:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/header.php on line 58
+[13-Aug-2021 10:32:48 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[13-Aug-2021 10:32:48 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[13-Aug-2021 10:32:48 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[13-Aug-2021 10:32:48 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[13-Aug-2021 16:25:23 Asia/Kolkata] PHP Notice:  Undefined index: universityroll in /home/champhai/public_html/admission/admin/ustudentfee.php on line 28
+[13-Aug-2021 16:25:23 Asia/Kolkata] PHP Notice:  Undefined index: universityroll in /home/champhai/public_html/admission/admin/ustudentfee.php on line 224
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 81
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 82
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 83
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 84
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 86
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 87
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 88
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 89
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 90
+[13-Aug-2021 11:06:24 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 91
+[13-Aug-2021 16:36:27 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/champhai/public_html/admission/admin/verifiedexport.php on line 180
+[13-Aug-2021 16:36:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/verifiedexport.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/verifiedexport.php on line 181
+[03-Sep-2021 08:04:23 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 121
+[03-Sep-2021 08:04:23 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/champhai/public_html/admission/admin/applicantdetails.php on line 122
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 81
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 82
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 83
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: page in /home/champhai/public_html/admission/admin/verifiedexport.php on line 84
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 86
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 87
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 88
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 89
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 90
+[03-Sep-2021 02:41:21 UTC] PHP Notice:  Undefined index: program in /home/champhai/public_html/admission/admin/verifiedexport.php on line 91
+[03-Sep-2021 08:11:24 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/champhai/public_html/admission/admin/verifiedexport.php on line 180
+[03-Sep-2021 08:11:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/verifiedexport.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/champhai/public_html/admission/admin/verifiedexport.php on line 181
+[04-Oct-2021 12:56:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[04-Oct-2021 12:56:31 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[04-Oct-2021 12:56:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[04-Oct-2021 12:56:53 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/champhai/public_html/admission/admin/sidebar.php on line 33
+[04-Oct-2021 12:56:53 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/champhai/public_html/admission/admin/sidebar.php on line 36
+[04-Oct-2021 12:56:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home/champhai/public_html/admission/admin/sidebar.php:37
+Stack trace:
+#0 /home/champhai/public_html/admission/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/champhai/public_html/admission/admin/sidebar.php on line 37
+[19-Oct-2021 14:27:13 Asia/Kolkata] PHP Notice:  Undefined variable: _SESSION in /home/champhai/public_html/admission/admin/profile.php on line 5
+[19-Oct-2021 14:27:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 5
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 41
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 45
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 47
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 51
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 51
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 51
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 51
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 54
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 81
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 87
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 111
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 117
+[19-Oct-2021 14:27:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/champhai/public_html/admission/admin/profile.php on line 134

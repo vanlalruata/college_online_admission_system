@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sendinblue/api-v3-sdk": "7.x.x",
+        "sendgrid/sendgrid": "^7.9",
+        "razorpay/razorpay": "2.*"
+    }
+}
